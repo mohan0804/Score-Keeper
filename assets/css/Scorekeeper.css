@@ -1,0 +1,51 @@
+.winner {
+    color: green;
+}
+
+body {
+    background: white;
+
+}
+
+#container {
+    text-align: center;
+    color: white;
+    border: 5px solid rgb(245, 132, 132);
+    padding-bottom: 20px;
+    background: rgb(245, 173, 115);
+    margin: 10px auto;
+    width: 60%;
+}
+
+h1 {
+    font-weight: 700;
+    font-family: monospace;
+    font-size:50px;
+    color: rgb(245, 241, 16);
+}
+button {
+    border: none;
+    font-size: inherit;
+    background: rgb(155, 247, 224);
+    font-weight: inherit;
+}
+
+button:hover {
+    background: white;
+    color: #223322;
+}
+
+h2 {
+    font-size: 35px;
+    color: orangered;
+}
+
+input {
+    width: 70px;
+}
+#text {
+    font-size: 20px;
+}
+p {
+     font-size: 20px;
+}
